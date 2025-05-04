@@ -1,0 +1,24 @@
+# Ignore Python virtual environments
+venv/
+venv310/
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore large files
+*.dll
+*.pyd
+*.exe
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Ignore logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
